@@ -75,7 +75,6 @@ function Posts() {
 
     return (
         <div className="App">
-            <button>dss</button>
             <MyButton style={{marginTop: "15px"}} onClick={() => setModal(true)}>
                 Создать пост
             </MyButton>
